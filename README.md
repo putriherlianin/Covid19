@@ -14,7 +14,7 @@ The dataset is from [Our World in Data](https://ourworldindata.org/covid-cases),
 1. Clone the repo:
     ```
     git clone https://github.com/putriherlianin/Covid19.git
-    cd covid19-data-analysis
+    cd Covid19
     ```
 
 2. Install dependencies:
