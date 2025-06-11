@@ -13,7 +13,7 @@ The dataset is from [Our World in Data](https://ourworldindata.org/covid-cases),
 ## How to Run
 1. Clone the repo:
     ```
-    git clone https://github.com/yourusername/covid19-data-analysis.git
+    git clone https://github.com/putriherlianin/covid19-data-analysis.git
     cd covid19-data-analysis
     ```
 
@@ -26,6 +26,3 @@ The dataset is from [Our World in Data](https://ourworldindata.org/covid-cases),
     ```
     jupyter notebook covid19_analysis.ipynb
     ```
-
-## License
-This project is licensed under the MIT License.
